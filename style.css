@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: clamp(20px 8vw 100px);
+    background-color: beige;
+}
+
+h1 {
+    padding-top: 4em;
+    font-size: clamp(20px 8vw 100px);
+    text-align: center;
+}
+
+p {
+    margin: 2em 0;
+    font-size: clamp(20px 8vw 100px);
+}
+
+div {
+    margin: 2em 0;
+    font-size: clamp(20px 8vw 100px);
+}
+img {
+    width: 40em;
+    max-width: 90%;
+}
